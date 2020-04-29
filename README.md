@@ -8,7 +8,7 @@ tags: @oh-my-posh @LazoCoder-PokemonTerminal @microsoft-terminal @cmd @R
 
 ## 未來希望有的功能
 
-- .bat檔中藥可以判斷是否有輸入參數。或是R裡面要能做判斷，但應該是bat檔中要做調整
+- .bat檔中要可以判斷是否有輸入參數。或是R裡面要能做判斷，但應該是bat檔中要做調整
 - pass specify parameter to bat file
 - 多個tags的篩選。
 
