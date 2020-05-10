@@ -34,7 +34,7 @@ opt <- docopt(doc)          # docopt parsing
 
 
 
-imageDT_path <- "E:/NCHC/project_small/change_terminal_background/imagelist.csv"
+imageDT_path <- "E:/NCHC/project2020/change_terminal_background/imagelist.csv"
 get.image.path <- function(imageDT_path, dir = NULL, tags = NULL, ff = NULL, id = NULL){
   DT <- fread(imageDT_path, encoding = "UTF-8", colClasses = "character")
   
