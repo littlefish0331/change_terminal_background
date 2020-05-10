@@ -1,7 +1,5 @@
 # Change Windows Terminal Background in cmd
 
-tags: @oh-my-posh @LazoCoder-PokemonTerminal @microsoft-terminal @cmd @R
-
 ## 效果
 
 ![change cmd background image](./effect.gif?raw=true "effect.gif")
